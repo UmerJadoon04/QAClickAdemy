@@ -1,0 +1,194 @@
+2024-08-16 11:52:17,727 INFO : test_e2e :getteing all the cards titles
+2024-08-16 11:52:21,423 INFO : test_e2e :entering country name pa
+2024-08-16 11:52:28,804 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-16 11:59:55,755 INFO : test_e2e :getteing all the cards titles
+2024-08-16 11:59:56,657 INFO : test_e2e :entering country name pa
+2024-08-16 12:00:04,699 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-16 12:43:52,275 INFO : test_submitform :User name is displayed
+2024-08-16 12:43:52,831 INFO : test_submitform :User ID is displayed
+2024-08-16 12:43:53,904 INFO : test_submitform :user grnder is selected
+2024-08-16 12:43:55,157 INFO : test_submitform :meassage from application is recieved×
+Success! The Form has been submitted successfully!.
+2024-08-16 12:43:56,036 INFO : test_submitform :User name is displayed
+2024-08-16 12:43:56,036 INFO : test_submitform :User name is displayed
+2024-08-16 12:43:56,522 INFO : test_submitform :User ID is displayed
+2024-08-16 12:43:56,522 INFO : test_submitform :User ID is displayed
+2024-08-16 12:43:57,531 INFO : test_submitform :user grnder is selected
+2024-08-16 12:43:57,531 INFO : test_submitform :user grnder is selected
+2024-08-16 12:43:58,434 INFO : test_submitform :meassage from application is recieved×
+Success! The Form has been submitted successfully!.
+2024-08-16 12:43:58,434 INFO : test_submitform :meassage from application is recieved×
+Success! The Form has been submitted successfully!.
+2024-08-16 13:03:11,396 INFO : test_submitform :User name is displayed
+2024-08-16 13:03:12,070 INFO : test_submitform :User ID is displayed
+2024-08-16 13:03:13,482 INFO : test_submitform :user gender is selected
+2024-08-16 13:03:15,233 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 13:03:16,247 INFO : test_submitform :User name is displayed
+2024-08-16 13:03:16,247 INFO : test_submitform :User name is displayed
+2024-08-16 13:03:16,772 INFO : test_submitform :User ID is displayed
+2024-08-16 13:03:16,772 INFO : test_submitform :User ID is displayed
+2024-08-16 13:03:17,970 INFO : test_submitform :user gender is selected
+2024-08-16 13:03:17,970 INFO : test_submitform :user gender is selected
+2024-08-16 13:03:19,081 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 13:03:19,081 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 13:03:41,341 INFO : test_e2e :getteing all the cards titles
+2024-08-16 13:03:42,626 INFO : test_e2e :entering country name pa
+2024-08-16 13:03:49,010 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-16 14:14:23,605 INFO : test_submitform :User name is displayed
+2024-08-16 14:14:24,145 INFO : test_submitform :User ID is displayed
+2024-08-16 14:14:25,906 INFO : test_submitform :user gender is selected
+2024-08-16 14:14:27,488 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:14:28,639 INFO : test_submitform :User name is displayed
+2024-08-16 14:14:28,639 INFO : test_submitform :User name is displayed
+2024-08-16 14:14:29,119 INFO : test_submitform :User ID is displayed
+2024-08-16 14:14:29,119 INFO : test_submitform :User ID is displayed
+2024-08-16 14:14:30,830 INFO : test_submitform :user gender is selected
+2024-08-16 14:14:30,830 INFO : test_submitform :user gender is selected
+2024-08-16 14:14:32,413 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:14:32,413 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:14:49,577 INFO : test_e2e :getteing all the cards titles
+2024-08-16 14:14:51,035 INFO : test_e2e :entering country name pa
+2024-08-16 14:14:58,092 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-16 14:16:02,755 INFO : test_submitform :User name is displayed
+2024-08-16 14:16:03,359 INFO : test_submitform :User ID is displayed
+2024-08-16 14:16:05,719 INFO : test_submitform :user gender is selected
+2024-08-16 14:16:06,963 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:16:07,435 INFO : test_submitform :User name is displayed
+2024-08-16 14:16:07,435 INFO : test_submitform :User name is displayed
+2024-08-16 14:16:07,879 INFO : test_submitform :User ID is displayed
+2024-08-16 14:16:07,879 INFO : test_submitform :User ID is displayed
+2024-08-16 14:16:09,313 INFO : test_submitform :user gender is selected
+2024-08-16 14:16:09,313 INFO : test_submitform :user gender is selected
+2024-08-16 14:16:10,866 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:16:10,866 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:16:33,616 INFO : test_e2e :getteing all the cards titles
+2024-08-16 14:16:35,004 INFO : test_e2e :entering country name pa
+2024-08-16 14:16:41,454 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-16 14:23:36,161 INFO : test_submitform :User name is displayed
+2024-08-16 14:23:37,142 INFO : test_submitform :User ID is displayed
+2024-08-16 14:23:38,746 INFO : test_submitform :user gender is selected
+2024-08-16 14:23:40,563 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:23:42,061 INFO : test_submitform :User name is displayed
+2024-08-16 14:23:42,061 INFO : test_submitform :User name is displayed
+2024-08-16 14:23:42,666 INFO : test_submitform :User ID is displayed
+2024-08-16 14:23:42,666 INFO : test_submitform :User ID is displayed
+2024-08-16 14:23:43,815 INFO : test_submitform :user gender is selected
+2024-08-16 14:23:43,815 INFO : test_submitform :user gender is selected
+2024-08-16 14:23:44,877 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:23:44,877 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-16 14:24:01,184 INFO : test_e2e :getteing all the cards titles
+2024-08-16 14:24:02,068 INFO : test_e2e :entering country name pa
+2024-08-16 14:24:09,199 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-19 10:36:02,405 INFO : test_submitform :User name is displayed
+2024-08-19 10:36:04,804 INFO : test_submitform :User ID is displayed
+2024-08-19 10:36:11,406 INFO : test_submitform :user gender is selected
+2024-08-19 10:36:15,385 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 10:36:17,906 INFO : test_submitform :User name is displayed
+2024-08-19 10:36:17,906 INFO : test_submitform :User name is displayed
+2024-08-19 10:36:20,189 INFO : test_submitform :User ID is displayed
+2024-08-19 10:36:20,189 INFO : test_submitform :User ID is displayed
+2024-08-19 10:36:26,406 INFO : test_submitform :user gender is selected
+2024-08-19 10:36:26,406 INFO : test_submitform :user gender is selected
+2024-08-19 10:36:30,956 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 10:36:30,956 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 10:37:56,182 INFO : test_e2e :getteing all the cards titles
+2024-08-19 10:38:09,088 INFO : test_e2e :entering country name pa
+2024-08-19 10:38:24,129 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-19 10:59:05,517 INFO : test_submitform :User name is displayed
+2024-08-19 10:59:07,457 INFO : test_submitform :User ID is displayed
+2024-08-19 10:59:13,093 INFO : test_submitform :user gender is selected
+2024-08-19 10:59:15,786 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 10:59:17,730 INFO : test_submitform :User name is displayed
+2024-08-19 10:59:17,730 INFO : test_submitform :User name is displayed
+2024-08-19 10:59:18,813 INFO : test_submitform :User ID is displayed
+2024-08-19 10:59:18,813 INFO : test_submitform :User ID is displayed
+2024-08-19 10:59:22,596 INFO : test_submitform :user gender is selected
+2024-08-19 10:59:22,596 INFO : test_submitform :user gender is selected
+2024-08-19 10:59:26,877 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 10:59:26,877 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 11:00:00,273 INFO : test_e2e :getteing all the cards titles
+2024-08-19 11:00:04,343 INFO : test_e2e :entering country name pa
+2024-08-19 11:00:13,614 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-19 12:30:58,712 INFO : test_submitform :User name is displayed
+2024-08-19 12:31:09,751 INFO : test_submitform :User ID is displayed
+2024-08-19 12:31:15,070 INFO : test_submitform :user gender is selected
+2024-08-19 12:31:18,010 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:31:20,107 INFO : test_submitform :User name is displayed
+2024-08-19 12:31:20,107 INFO : test_submitform :User name is displayed
+2024-08-19 12:31:21,227 INFO : test_submitform :User ID is displayed
+2024-08-19 12:31:21,227 INFO : test_submitform :User ID is displayed
+2024-08-19 12:31:24,284 INFO : test_submitform :user gender is selected
+2024-08-19 12:31:24,284 INFO : test_submitform :user gender is selected
+2024-08-19 12:31:26,741 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:31:26,741 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:32:04,120 INFO : test_e2e :getteing all the cards titles
+2024-08-19 12:32:10,188 INFO : test_e2e :entering country name pa
+2024-08-19 12:32:23,815 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-19 12:37:54,422 INFO : test_submitform :User name is displayed
+2024-08-19 12:37:56,720 INFO : test_submitform :User ID is displayed
+2024-08-19 12:38:00,673 INFO : test_submitform :user gender is selected
+2024-08-19 12:38:03,038 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:38:04,956 INFO : test_submitform :User name is displayed
+2024-08-19 12:38:04,956 INFO : test_submitform :User name is displayed
+2024-08-19 12:38:05,774 INFO : test_submitform :User ID is displayed
+2024-08-19 12:38:05,774 INFO : test_submitform :User ID is displayed
+2024-08-19 12:38:08,787 INFO : test_submitform :user gender is selected
+2024-08-19 12:38:08,787 INFO : test_submitform :user gender is selected
+2024-08-19 12:38:11,696 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:38:11,696 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:38:44,692 INFO : test_e2e :getteing all the cards titles
+2024-08-19 12:38:48,041 INFO : test_e2e :entering country name pa
+2024-08-19 12:38:57,378 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-19 12:45:50,990 INFO : test_submitform :User name is displayed
+2024-08-19 12:45:52,153 INFO : test_submitform :User ID is displayed
+2024-08-19 12:45:55,037 INFO : test_submitform :user gender is selected
+2024-08-19 12:45:57,578 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:45:59,375 INFO : test_submitform :User name is displayed
+2024-08-19 12:45:59,375 INFO : test_submitform :User name is displayed
+2024-08-19 12:46:00,147 INFO : test_submitform :User ID is displayed
+2024-08-19 12:46:00,147 INFO : test_submitform :User ID is displayed
+2024-08-19 12:46:02,602 INFO : test_submitform :user gender is selected
+2024-08-19 12:46:02,602 INFO : test_submitform :user gender is selected
+2024-08-19 12:46:05,107 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:46:05,107 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-19 12:46:33,053 INFO : test_e2e :getteing all the cards titles
+2024-08-19 12:46:37,197 INFO : test_e2e :entering country name pa
+2024-08-19 12:46:44,341 INFO : test_e2e :text recieved from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
