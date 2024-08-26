@@ -1,0 +1,22 @@
+2024-08-25 20:53:14,749 INFO : test_submitform :User name is displayed
+2024-08-25 20:53:15,312 INFO : test_submitform :User ID is displayed
+2024-08-25 20:53:16,615 INFO : test_submitform :user gender is selected
+2024-08-25 20:53:17,994 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 20:53:40,295 INFO : test_submitform :User name is displayed
+2024-08-25 20:53:40,295 INFO : test_submitform :User name is displayed
+2024-08-25 23:38:02,247 INFO : test_submitform :User name is displayed
+2024-08-25 23:38:02,648 INFO : test_submitform :User ID is displayed
+2024-08-25 23:38:03,812 INFO : test_submitform :user gender is selected
+2024-08-25 23:38:05,116 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 23:38:28,210 INFO : test_submitform :User name is displayed
+2024-08-25 23:38:28,210 INFO : test_submitform :User name is displayed
+2024-08-26 01:01:57,483 INFO : test_submitform :User name is displayed
+2024-08-26 01:01:58,437 INFO : test_submitform :User ID is displayed
+2024-08-26 01:02:00,579 INFO : test_submitform :user gender is selected
+2024-08-26 01:02:02,798 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-26 01:02:02,799 INFO : test_submitform :Testing with data: {'firstname': 'Umer Jadoon', 'ID': 'umerjadoon@gmail.com', 'gender': 'Male'}
+2024-08-26 01:02:26,130 INFO : test_submitform :User name is displayed
+2024-08-26 01:02:26,130 INFO : test_submitform :User name is displayed

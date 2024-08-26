@@ -1,7 +1,8 @@
 from selenium.webdriver.common.by import By
+from utilities.BaseClass import Baseclass
 
 
-class confirmorder():
+class confirmorder(Baseclass):
     def __init__(self, driver):
         self.driver = driver
 
@@ -12,7 +13,8 @@ class confirmorder():
         return self.driver.find_element(By.ID, "country")
 
     def selectCountry(self):
-        return self.driver.find_element(By.LINK_TEXT, "Pakistan")
+        return self.verifylinks("Pakistan")
+         # return self.driver.find_element(By.LINK_TEXT, "Pakistan")
 
     def termsandconditions(self):
         return self.driver.find_element(By.XPATH, "//div[@class= 'checkbox checkbox-primary']")

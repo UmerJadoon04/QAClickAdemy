@@ -14,8 +14,15 @@ class Homepage:
         checkoutPage = checkoutpage(self.driver)
         return checkoutPage
 
+
+
+
+
+
+
     def getname(self):
-        return self.driver.find_element(By.CSS_SELECTOR, "[name = 'name']")
+        return self.driver.find_element(By.CSS_SELECTOR, "input[name='name'][type='text']")
+
 
     def getID(self):
         return self.driver.find_element(By.NAME, 'email')

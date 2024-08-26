@@ -1,12 +1,15 @@
 import pytest
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.chrome.service import Service as ChromeService, Service
+from selenium.webdriver.edge.service import Service as EdgeService
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+
 
 def pytest_addoption(parser):
     parser.addoption(
-        "--browser_name", action="store", default="chrome"
+        "--browser_name", action="store", default="chrome",
+        help="Name of the browser to use for tests"
     )
 
 
@@ -15,20 +18,27 @@ def setup(request):
     global driver
     browser_name = request.config.getoption("browser_name").lower()  # Normalize to lowercase
 
-    if browser_name in ["chrome", "google chrome"]:
-        driver = webdriver.Chrome()
-    elif browser_name in ["microsoft edge", "edge", "msedge"]:
-        driver = webdriver.Edge()
-    else:
-        print(f"Unsupported browser '{browser_name}', defaulting to Chrome.")
-        driver = webdriver.Chrome()
+    try:
+        if browser_name in ["chrome", "google chrome"]:
+            service = Service(
+                executable_path='C:/Users/Dell/Downloads/127.0.6533.72 chromedriver-win64/chromedriver-win64/chromedriver.exe')
 
-    driver.get("https://qaclickacademy.github.io/protocommerce/")
-    driver.maximize_window()
-    request.cls.driver = driver
-    yield driver
+            driver = webdriver.Chrome(service=service)
+            driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+        elif browser_name in ["microsoft edge", "edge", "msedge"]:
+            driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+        else:
+            print(f"Unsupported browser '{browser_name}', defaulting to Chrome.")
+            driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 
-    driver.close()
+        driver.get("https://qaclickacademy.github.io/protocommerce/")
+        driver.maximize_window()
+        request.cls.driver = driver
+        yield driver
+    finally:
+        if driver:
+            driver.quit()
+
 
 @pytest.mark.hookwrapper
 def pytest_runtest_makereport(item):

@@ -192,3 +192,168 @@ Success! The Form has been submitted successfully!.
 2024-08-19 12:46:37,197 INFO : test_e2e :entering country name pa
 2024-08-19 12:46:44,341 INFO : test_e2e :text recieved from application is ×
 Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-25 16:27:11,396 INFO : test_submitform :User name is displayed
+2024-08-25 16:27:12,914 INFO : test_submitform :User ID is displayed
+2024-08-25 16:27:14,387 INFO : test_submitform :user gender is selected
+2024-08-25 16:27:16,377 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 16:27:17,198 INFO : test_submitform :User name is displayed
+2024-08-25 16:27:17,198 INFO : test_submitform :User name is displayed
+2024-08-25 16:27:17,395 INFO : test_submitform :User ID is displayed
+2024-08-25 16:27:17,395 INFO : test_submitform :User ID is displayed
+2024-08-25 16:27:18,191 INFO : test_submitform :user gender is selected
+2024-08-25 16:27:18,191 INFO : test_submitform :user gender is selected
+2024-08-25 16:27:18,995 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 16:27:18,995 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:42:49,169 INFO : test_submitform :User name is displayed
+2024-08-25 17:42:50,185 INFO : test_submitform :User ID is displayed
+2024-08-25 17:42:51,324 INFO : test_submitform :user gender is selected
+2024-08-25 17:42:53,078 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:42:56,879 INFO : test_submitform :User name is displayed
+2024-08-25 17:42:56,879 INFO : test_submitform :User name is displayed
+2024-08-25 17:42:57,739 INFO : test_submitform :User ID is displayed
+2024-08-25 17:42:57,739 INFO : test_submitform :User ID is displayed
+2024-08-25 17:42:59,337 INFO : test_submitform :user gender is selected
+2024-08-25 17:42:59,337 INFO : test_submitform :user gender is selected
+2024-08-25 17:43:00,881 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:43:00,881 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:43:57,350 INFO : test_submitform :User name is displayed
+2024-08-25 17:43:58,303 INFO : test_submitform :User ID is displayed
+2024-08-25 17:44:00,216 INFO : test_submitform :user gender is selected
+2024-08-25 17:44:02,303 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:44:05,214 INFO : test_submitform :User name is displayed
+2024-08-25 17:44:05,214 INFO : test_submitform :User name is displayed
+2024-08-25 17:44:05,902 INFO : test_submitform :User ID is displayed
+2024-08-25 17:44:05,902 INFO : test_submitform :User ID is displayed
+2024-08-25 17:44:07,709 INFO : test_submitform :user gender is selected
+2024-08-25 17:44:07,709 INFO : test_submitform :user gender is selected
+2024-08-25 17:44:10,224 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:44:10,224 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:46:07,155 INFO : test_submitform :User name is displayed
+2024-08-25 17:46:07,830 INFO : test_submitform :User ID is displayed
+2024-08-25 17:46:09,471 INFO : test_submitform :user gender is selected
+2024-08-25 17:46:10,989 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:46:17,017 INFO : test_submitform :User name is displayed
+2024-08-25 17:46:17,017 INFO : test_submitform :User name is displayed
+2024-08-25 17:56:48,979 INFO : test_submitform :User name is displayed
+2024-08-25 17:56:53,581 INFO : test_submitform :User ID is displayed
+2024-08-25 17:56:55,020 INFO : test_submitform :user gender is selected
+2024-08-25 17:56:57,207 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 17:57:05,188 INFO : test_submitform :User name is displayed
+2024-08-25 17:57:05,188 INFO : test_submitform :User name is displayed
+2024-08-25 18:09:40,340 INFO : test_submitform :User name is displayed
+2024-08-25 18:09:41,274 INFO : test_submitform :User ID is displayed
+2024-08-25 18:09:43,231 INFO : test_submitform :user gender is selected
+2024-08-25 18:09:45,054 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:09:51,193 INFO : test_submitform :User name is displayed
+2024-08-25 18:09:51,193 INFO : test_submitform :User name is displayed
+2024-08-25 18:22:18,715 INFO : test_submitform :User name is displayed
+2024-08-25 18:22:19,513 INFO : test_submitform :User ID is displayed
+2024-08-25 18:22:21,193 INFO : test_submitform :user gender is selected
+2024-08-25 18:22:22,739 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:22:30,753 INFO : test_submitform :User name is displayed
+2024-08-25 18:22:30,753 INFO : test_submitform :User name is displayed
+2024-08-25 18:24:37,648 INFO : test_submitform :User name is displayed
+2024-08-25 18:24:38,720 INFO : test_submitform :User ID is displayed
+2024-08-25 18:24:40,790 INFO : test_submitform :user gender is selected
+2024-08-25 18:24:42,457 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:24:50,274 INFO : test_submitform :User name is displayed
+2024-08-25 18:24:50,274 INFO : test_submitform :User name is displayed
+2024-08-25 18:30:01,759 INFO : test_submitform :User name is displayed
+2024-08-25 18:30:02,538 INFO : test_submitform :User ID is displayed
+2024-08-25 18:30:04,429 INFO : test_submitform :user gender is selected
+2024-08-25 18:30:06,460 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:30:17,867 INFO : test_submitform :User name is displayed
+2024-08-25 18:30:17,867 INFO : test_submitform :User name is displayed
+2024-08-25 18:33:23,610 INFO : test_submitform :User name is displayed
+2024-08-25 18:33:24,279 INFO : test_submitform :User ID is displayed
+2024-08-25 18:33:25,769 INFO : test_submitform :user gender is selected
+2024-08-25 18:33:27,170 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:33:37,793 INFO : test_submitform :User name is displayed
+2024-08-25 18:33:37,793 INFO : test_submitform :User name is displayed
+2024-08-25 18:37:58,538 INFO : test_submitform :User name is displayed
+2024-08-25 18:37:59,252 INFO : test_submitform :User ID is displayed
+2024-08-25 18:38:00,894 INFO : test_submitform :user gender is selected
+2024-08-25 18:38:02,389 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:38:26,653 INFO : test_submitform :User name is displayed
+2024-08-25 18:38:26,653 INFO : test_submitform :User name is displayed
+2024-08-25 18:48:35,471 INFO : test_submitform :User name is displayed
+2024-08-25 18:48:36,556 INFO : test_submitform :User ID is displayed
+2024-08-25 18:48:39,696 INFO : test_submitform :user gender is selected
+2024-08-25 18:48:42,049 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:49:03,449 INFO : test_submitform :User name is displayed
+2024-08-25 18:49:03,449 INFO : test_submitform :User name is displayed
+2024-08-25 18:53:14,403 INFO : test_submitform :User name is displayed
+2024-08-25 18:53:14,999 INFO : test_submitform :User ID is displayed
+2024-08-25 18:53:16,431 INFO : test_submitform :user gender is selected
+2024-08-25 18:53:17,841 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 18:53:30,547 INFO : test_submitform :User name is displayed
+2024-08-25 18:53:30,547 INFO : test_submitform :User name is displayed
+2024-08-25 19:12:46,449 INFO : test_submitform :User name is displayed
+2024-08-25 19:12:47,395 INFO : test_submitform :User ID is displayed
+2024-08-25 19:12:49,387 INFO : test_submitform :user gender is selected
+2024-08-25 19:12:50,828 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 19:13:09,270 INFO : test_submitform :User name is displayed
+2024-08-25 19:13:09,270 INFO : test_submitform :User name is displayed
+2024-08-25 20:47:05,051 INFO : test_submitform :User name is displayed
+2024-08-25 20:47:05,443 INFO : test_submitform :User ID is displayed
+2024-08-25 20:47:06,240 INFO : test_submitform :user gender is selected
+2024-08-25 20:47:07,397 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 20:47:31,501 INFO : test_submitform :User name is displayed
+2024-08-25 20:47:31,501 INFO : test_submitform :User name is displayed
+2024-08-25 22:04:50,309 INFO : test_submitform :User name is displayed
+2024-08-25 22:04:50,835 INFO : test_submitform :User ID is displayed
+2024-08-25 22:04:52,116 INFO : test_submitform :user gender is selected
+2024-08-25 22:04:53,201 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 22:05:21,085 INFO : test_submitform :User name is displayed
+2024-08-25 22:05:21,085 INFO : test_submitform :User name is displayed
+2024-08-25 23:00:13,685 INFO : test_submitform :User name is displayed
+2024-08-25 23:00:14,276 INFO : test_submitform :User ID is displayed
+2024-08-25 23:00:16,387 INFO : test_submitform :user gender is selected
+2024-08-25 23:00:18,311 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-25 23:00:39,773 INFO : test_submitform :User name is displayed
+2024-08-25 23:00:39,773 INFO : test_submitform :User name is displayed
+2024-08-26 00:39:58,549 INFO : test_submitform :User name is displayed
+2024-08-26 00:39:58,999 INFO : test_submitform :User ID is displayed
+2024-08-26 00:40:00,822 INFO : test_submitform :user gender is selected
+2024-08-26 00:40:02,713 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-26 00:40:21,135 INFO : test_submitform :User name is displayed
+2024-08-26 00:40:21,135 INFO : test_submitform :User name is displayed
+2024-08-26 00:50:02,887 INFO : test_submitform :User name is displayed
+2024-08-26 00:50:03,987 INFO : test_submitform :User ID is displayed
+2024-08-26 00:50:06,377 INFO : test_submitform :user gender is selected
+2024-08-26 00:50:08,548 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-26 00:50:35,088 INFO : test_submitform :User name is displayed
+2024-08-26 00:50:35,088 INFO : test_submitform :User name is displayed
+2024-08-26 01:10:42,916 INFO : test_submitform :User name is displayed
+2024-08-26 01:10:44,056 INFO : test_submitform :User ID is displayed
+2024-08-26 01:10:46,352 INFO : test_submitform :user gender is selected
+2024-08-26 01:10:50,327 INFO : test_submitform :×
+Success! The Form has been submitted successfully!.
+2024-08-26 01:10:50,329 INFO : test_submitform :Testing with data: {'firstname': 'Umer Jadoon', 'ID': 'umerjadoon@gmail.com', 'gender': 'Male'}
+2024-08-26 01:11:13,168 INFO : test_submitform :User name is displayed
+2024-08-26 01:11:13,168 INFO : test_submitform :User name is displayed
